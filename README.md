@@ -1,6 +1,6 @@
 Movie Booking System API
 
-A RESTful Movie Booking System built using FastAPI, SQLAlchemy, and MySQL. The application allows users to create, view, update, and cancel movie ticket bookings through well-structured API endpoints. It follows CRUD operations and uses Pydantic for request validation and SQLAlchemy ORM for database management.
+Movie Booking System built using FastAPI, SQLAlchemy, and MySQL. The application allows users to create, view, update, and cancel movie ticket bookings through well-structured API endpoints. It follows CRUD operations and uses Pydantic for request validation and SQLAlchemy ORM for database management.
 
 Features
 Create movie ticket bookings
